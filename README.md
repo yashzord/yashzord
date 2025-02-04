@@ -23,6 +23,7 @@
 
 ## ✨ About Me
 - **Name**: Bitra Bhaskara Yashwant  
+- **Email**: bbitra1@binghamton.edu | yashubitra2003@gmail.com
 - **Education**:  
   \- **M.S. in Computer Science** (AI Track) @ Binghamton University (Expected May 2025, GPA: 3.92)  
   \- **B.S. in Computer Science** @ Binghamton University (Expected May 2024, GPA: 3.82)  
