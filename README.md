@@ -114,7 +114,7 @@
 
 ## 🌱 Fun Facts
 - When I’m not coding, I’m probably playing chess or exploring new music.
-- I love tinkering with network security tools—Kali Linux and Wireshark are my jam.
+- I love tinkering with network security tools - Kali Linux and Wireshark are my jam.
 - A well-timed meme can solve half your debugging problems (try it!).
 
 ---
