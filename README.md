@@ -68,7 +68,7 @@
 </p>
 
 ### Certifications
-- [Relational Database Systems](file:///C:/Users/yashu/OneDrive/Desktop/Resume/Certificate.png)
+- [Relational Database Systems](./Certificate.png)
 
 ---
 
@@ -97,7 +97,7 @@
 
 ## 🎓 Projects, Experience & More
 
-- **[Resume / CV](file:///C:/Users/yashu/OneDrive/Desktop/Resume/Bitra_Bhaskara_Yashwant_Resume_Final.pdf)**
+- **[Resume / CV](./Bitra_Bhaskara_Yashwant_Resume_Final.pdf)**
 
 ### Recent Projects
 - **Evil Twin Attack**: [GitHub Link](https://github.com/yashzord/Evil_Twin_Attack)
