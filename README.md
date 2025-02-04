@@ -14,7 +14,7 @@
   <a href="https://open.spotify.com/user/31h3xfv7iib46nypgbr4peyncs64"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://yashzord.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/yashwantbitra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/yashwan09735949"><img src="https://img.shields.io/badge/X(formerly Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/yashwan09735949"><img src="https://img.shields.io/badge/X(formerly%20Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <br/>
   <a href="https://lichess.org/@/yashubitra"><img src="https://img.shields.io/badge/Lichess-3A2C2C?style=for-the-badge&logo=lichess&logoColor=white"/></a>
   <a href="https://www.chess.com/member/yashubitra"><img src="https://img.shields.io/badge/Chess.com-2C5A72?style=for-the-badge&logo=chess.com&logoColor=white"/></a>
@@ -68,7 +68,7 @@
 </p>
 
 ### Certifications
-- Relational Database Systems
+- [Relational Database Systems](file:///C:/Users/yashu/OneDrive/Desktop/Resume/Certificate.png)
 
 ---
 
@@ -97,7 +97,7 @@
 
 ## 🎓 Projects, Experience & More
 
-- **[Resume / CV](./resume.pdf)** <!-- Make sure your PDF is named and located accordingly (e.g., `resume.pdf` in root). -->
+- **[Resume / CV](file:///C:/Users/yashu/OneDrive/Desktop/Resume/Bitra_Bhaskara_Yashwant_Resume_Final.pdf)**
 
 ### Recent Projects
 - **Evil Twin Attack**: [GitHub Link](https://github.com/yashzord/Evil_Twin_Attack)
