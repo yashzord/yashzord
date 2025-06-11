@@ -25,10 +25,10 @@
 - **Name**: Bitra Bhaskara Yashwant  
 - **Email**: bbitra1@binghamton.edu | yashubitra2003@gmail.com
 - **Education**:  
-  \- **M.S. in Computer Science** (AI Track) @ Binghamton University (Expected May 2025, GPA: 3.92)  
-  \- **B.S. in Computer Science** @ Binghamton University (Expected May 2024, GPA: 3.82)  
+  \- **M.S. in Computer Science** (AI Track) @ Binghamton University (August 2024 - May 2025, CGPA: 3.82)  
+  \- **B.S. in Computer Science** @ Binghamton University (August 2022 - May 2024, CGPA: 3.82)  
 - **Interests**: AI, Machine Learning, Full-Stack Web Dev, Cybersecurity, Data Visualization, Chess, and Music  
-- **Currently**: Teaching Assistant @ Binghamton University School of Computing | Ex-Intern @ CoreCard Inc  
+- **Previously**: Teaching Assistant - Programming for the Web @ Binghamton University School of Computing | Ex-Intern @ CoreCard Inc  
 
 ---
 
@@ -68,6 +68,8 @@
 </p>
 
 ### Certifications
+- [Google Data Analytics](./Google_Data_Analytics.pdf)
+- [Google Cybersecurity](./Google_Cybersecurity.pdf)
 - [Relational Database Systems](./Certificate.png)
 
 ---
@@ -100,6 +102,8 @@
 - **[Resume / CV](./Bitra_Bhaskara_Yashwant_Resume_Final.pdf)**
 
 ### Recent Projects
+- **MealMate**: [GitHub Link](https://github.com/yashzord/MealMate)
+- **Mobile Intrusion Detection System**: [GitHub Link](https://github.com/yashzord/Mobile-Intrusion-Detection-System)
 - **Evil Twin Attack**: [GitHub Link](https://github.com/yashzord/Evil_Twin_Attack)
 - **Social Media Data Crawlers**: [Crawler Repo](https://github.com/yashzord/Social-Media-Data-Crawlers) | [Dashboard Repo](https://github.com/yashzord/Social-Media-Data-Web-Dashboard)
 - **Smart Traffic Light System (STLS)**: [GitHub Link](https://github.com/yashzord/Smart-Traffic-Light-System)
